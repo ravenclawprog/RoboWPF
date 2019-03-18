@@ -1,0 +1,45 @@
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\bin\Debug\RoboWPF.exe.config
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\bin\Debug\RoboWPF.exe
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\bin\Debug\RoboWPF.pdb
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.csprojAssemblyReference.cache
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\App.g.cs
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF_MarkupCompile.cache
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF_MarkupCompile.lref
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\MainWindow.baml
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.g.resources
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.Properties.Resources.resources
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.csproj.GenerateResource.cache
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.csproj.CoreCompileInputs.cache
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.exe
+C:\Users\ymazko\source\repos\RoboWPF\RoboWPF\obj\Debug\RoboWPF.pdb
+F:\__main\csc examples\RoboWPF\RoboWPF\bin\Debug\RoboWPF.exe.config
+F:\__main\csc examples\RoboWPF\RoboWPF\bin\Debug\RoboWPF.exe
+F:\__main\csc examples\RoboWPF\RoboWPF\bin\Debug\RoboWPF.pdb
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.csprojAssemblyReference.cache
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\MainWindow.g.cs
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\App.g.cs
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF_MarkupCompile.cache
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF_MarkupCompile.lref
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\MainWindow.baml
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.g.resources
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.Properties.Resources.resources
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.csproj.GenerateResource.cache
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.csproj.CoreCompileInputs.cache
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.exe
+F:\__main\csc examples\RoboWPF\RoboWPF\obj\Debug\RoboWPF.pdb
+F:\__main\csc examples\RoboWPF2\RoboWPF\bin\Debug\RoboWPF.exe.config
+F:\__main\csc examples\RoboWPF2\RoboWPF\bin\Debug\RoboWPF.exe
+F:\__main\csc examples\RoboWPF2\RoboWPF\bin\Debug\RoboWPF.pdb
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\MainWindow.g.cs
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\App.g.cs
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF_MarkupCompile.cache
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF_MarkupCompile.lref
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\MainWindow.baml
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.g.resources
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.Properties.Resources.resources
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.csproj.GenerateResource.cache
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.csproj.CoreCompileInputs.cache
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.exe
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.pdb
+F:\__main\csc examples\RoboWPF2\RoboWPF\obj\Debug\RoboWPF.csprojAssemblyReference.cache
